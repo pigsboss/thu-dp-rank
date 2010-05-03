@@ -1,0 +1,9 @@
+<?php
+  define("DB_HOST","localhost");
+  define("DB_USER","root");
+  define("DB_PASSWORD","speedisfun");
+  define("DB_NAME","rank");
+  define("ADMIN_NAME","a27ef1c79c867d68d049751af69f4b38");
+  define("ADMIN_PASSWORD","02bd647f918253d4711e449c3f31a675");
+  define("UPLOAD_DIR","/home/azzuro/rank/import/");
+?>
